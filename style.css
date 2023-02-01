@@ -8,7 +8,7 @@ body {
 
 .qrcode{
     width: 375px;
-    height: 800px;
+    height: auto;
     background-color: hsl(212, 45%, 89%);
     display: flex;
   
